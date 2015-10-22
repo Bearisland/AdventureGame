@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * 
+ * Main class used to initialise the game and play
+ * 
+ * @author oli
+ *
+ */
+
 public class AdventureGame {
 
 	public static void main(String args[]) {
